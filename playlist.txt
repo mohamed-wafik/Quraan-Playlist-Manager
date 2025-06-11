@@ -1,0 +1,26 @@
+Playlist: Maher_Al-Muaiqly
+Al-Maidah|Madinah|Maher1.mp3
+Taha|Makya|Maher2.mp3
+END
+Playlist: Abdelbasset_Abdessamad
+Al-Baqarah|Madinah|Abdelbaset1.mp3
+Al-Imran|Madinah|Abdelbaset2.mp3
+END
+Playlist: Ahmed_Al-Agamy
+Al-Baqarah|Madinah|Agamy1.mp3
+Al-Imran|Madinah|Agamy2.mp3
+END
+Playlist: Mahmoud_Khalil_Al-Hussary
+Al-Baqarah|Madinah|Hosary1.mp3
+Al-Imran|Madinah|Hosary2.mp3
+END
+Playlist: Idrees_Abkar
+Al-Baqarah|Madinah|Idreas1.mp3
+END
+Playlist: Hazza_Al-Balushi
+Al-Kahf|Makya|Hazaa.mp3
+END
+Playlist: Mahmoud_siddi1_aL-Minshawi
+Al-Baqarah|Madinah|Menshawy1.mp3
+Al-Imran|Madinah|Menshawy2.mp3
+END
